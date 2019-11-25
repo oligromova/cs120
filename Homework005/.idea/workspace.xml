@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0087e7c-80e5-4465-9906-19def962cd00" name="Default Changelist" comment="" />
+    <list default="true" id="b0087e7c-80e5-4465-9906-19def962cd00" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Homework05/.idea/Homework05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/grid.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/life-console.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/life-gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/life.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/life_proto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/steps.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/test_life.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/test_life_proto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework05/ui.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +29,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1U7VWdSrK1Oxxz4sj4ss4rfcQtO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -168,5 +186,16 @@
   </component>
   <component name="SvnConfiguration">
     <configuration />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
